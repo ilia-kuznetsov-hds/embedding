@@ -4,7 +4,7 @@ from PyPDF2 import PdfReader
 
 PDF_PATH_FOLDER = r"C:\Users\kuzne\Desktop\embedding"
 OUTPUT_PATH = r"C:\Users\kuzne\Desktop\embedding"
-DATABASE_PATH = r"C:\Users\kuzne\Documents\Python_repo\01_embedding"
+
 
 
 def convert_pdf_to_text(pdf_path, output_folder):
